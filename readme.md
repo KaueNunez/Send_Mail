@@ -16,11 +16,16 @@
 - 1° Passo
     <p>Acesse o arquivo "email_validacao.php"</p>
 - 2° Passo
+    <br><br>
     ![alt text](image.png)
     <p>Adicione o seu e-mail</p>
+    <br><br>
+
     ![alt text](image-1.png)
     <p>Adicione a sua senha</p>
+    <br><br>
 - 3° Passo
+    <br><br>
     ![alt text](image-2.png)
     <p>Adicione o e-mail, que vai enviar os emails</p>
 
