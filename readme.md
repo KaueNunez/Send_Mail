@@ -18,10 +18,8 @@
 - 2° Passo
     ![alt text](image.png)
     <p>Adicione o seu e-mail</p>
-    <br>
     ![alt text](image-1.png)
     <p>Adicione a sua senha</p>
-    <br>
 - 3° Passo
     ![alt text](image-2.png)
     <p>Adicione o e-mail, que vai enviar os emails</p>
